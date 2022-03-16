@@ -1,3 +1,7 @@
 ### Git과 Github
 * git 레포지토리 초기화 명령은 $git init
+<<<<<<< HEAD
 * master 브랜치에서 내용을 수정함
+=======
+* 댓글기능 개발 추가
+>>>>>>> feat/comment
